@@ -1,7 +1,5 @@
 # **Open Relief**  
-## Transparency in Action: Empowering Communities, Restoring Trust
-
-<img src="https://github.com/user-attachments/assets/b5a72d40-3f82-4650-9076-45fb2c73b34e" width="300">
+**Transparency in Action: Empowering Communities, Restoring Trust**
 
 Welcome to the GitHub home of **Open Relief**, a nonprofit platform rebuilding trust in charity through **100% transparency** and **community-driven giving**.  
 
